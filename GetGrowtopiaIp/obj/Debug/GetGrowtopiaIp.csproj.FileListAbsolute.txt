@@ -1,0 +1,7 @@
+C:\Users\Erik\source\repos\GetGrowtopiaIp\GetGrowtopiaIp\bin\Debug\GetGrowtopiaIp.exe.config
+C:\Users\Erik\source\repos\GetGrowtopiaIp\GetGrowtopiaIp\bin\Debug\GetGrowtopiaIp.exe
+C:\Users\Erik\source\repos\GetGrowtopiaIp\GetGrowtopiaIp\bin\Debug\GetGrowtopiaIp.pdb
+C:\Users\Erik\source\repos\GetGrowtopiaIp\GetGrowtopiaIp\obj\Debug\GetGrowtopiaIp.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\GetGrowtopiaIp\GetGrowtopiaIp\obj\Debug\GetGrowtopiaIp.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\GetGrowtopiaIp\GetGrowtopiaIp\obj\Debug\GetGrowtopiaIp.exe
+C:\Users\Erik\source\repos\GetGrowtopiaIp\GetGrowtopiaIp\obj\Debug\GetGrowtopiaIp.pdb
